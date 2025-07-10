@@ -1,0 +1,20 @@
+[
+    {
+        "from": "orel",
+        "to": "oshri",
+        "content": "how are you?",
+        "timestamp": "2025-01-16 18:03:38"
+    },
+    {
+        "from": "oshri",
+        "to": "orel",
+        "content": "good and you?",
+        "timestamp": "2025-01-16 18:04:02"
+    },
+    {
+        "from": "orel",
+        "to": "oshri",
+        "content": "good too",
+        "timestamp": "2025-01-16 18:04:13"
+    }
+]
