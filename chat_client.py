@@ -1,7 +1,5 @@
 #chat_Client.py
 
-"""מגישים: 1. אושרי הלוי ת"ז 318830569    אוראל כהן ת"ז 214266819"""
-
 import socket
 import threading
 import json
